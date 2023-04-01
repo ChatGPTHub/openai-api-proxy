@@ -1,0 +1,21 @@
+{
+  "name": "api-proxy",
+  "version": "1.0.0",
+  "description": "A simple proxy for api via a one-line docker command",
+  "main": "n/a",
+  "scripts": {
+    "build:m1": "./scripts/build-m1.sh",
+    "build:non-m1": "./scripts/build-non-m1.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChatGPTHub/api-proxy.git"
+  },
+  "keywords": ["openai", "api", "proxy", "docker"],
+  "author": "liuliang@webfrontend.dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChatGPTHub/api-proxy/issues"
+  },
+  "homepage": "https://github.com/ChatGPTHub/api-proxy#readme"
+}
